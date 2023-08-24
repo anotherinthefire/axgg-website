@@ -2,7 +2,7 @@ import { Link } from "react-router-dom"
 
 const NotFound = () => {
   return (
-    <div>
+    <div className="flex">
         NotFound
         <Link to="/" >Home</Link>
     </div>
