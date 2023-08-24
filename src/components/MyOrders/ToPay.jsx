@@ -1,4 +1,4 @@
-const App = () => {
+const ToPay = () => {
   return (
     <div>
       
@@ -6,4 +6,4 @@ const App = () => {
   )
 }
 
-export default App
+export default ToPay
